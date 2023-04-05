@@ -5,4 +5,4 @@
   - :email: fengxiangmail@foxmail.com
 
 - :art: 
-  - start from reading these :books:[awesome books](https://goalkicker.com/)
+  - to be continue ...
